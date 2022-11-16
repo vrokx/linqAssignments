@@ -1,0 +1,15 @@
+E:\Degreed\linq\linqAssignment\linqAssignment\bin\Debug\net6.0\linqAssignment.exe
+E:\Degreed\linq\linqAssignment\linqAssignment\bin\Debug\net6.0\linqAssignment.deps.json
+E:\Degreed\linq\linqAssignment\linqAssignment\bin\Debug\net6.0\linqAssignment.runtimeconfig.json
+E:\Degreed\linq\linqAssignment\linqAssignment\bin\Debug\net6.0\linqAssignment.dll
+E:\Degreed\linq\linqAssignment\linqAssignment\bin\Debug\net6.0\linqAssignment.pdb
+E:\Degreed\linq\linqAssignment\linqAssignment\obj\Debug\net6.0\linqAssignment.csproj.AssemblyReference.cache
+E:\Degreed\linq\linqAssignment\linqAssignment\obj\Debug\net6.0\linqAssignment.GeneratedMSBuildEditorConfig.editorconfig
+E:\Degreed\linq\linqAssignment\linqAssignment\obj\Debug\net6.0\linqAssignment.AssemblyInfoInputs.cache
+E:\Degreed\linq\linqAssignment\linqAssignment\obj\Debug\net6.0\linqAssignment.AssemblyInfo.cs
+E:\Degreed\linq\linqAssignment\linqAssignment\obj\Debug\net6.0\linqAssignment.csproj.CoreCompileInputs.cache
+E:\Degreed\linq\linqAssignment\linqAssignment\obj\Debug\net6.0\linqAssignment.dll
+E:\Degreed\linq\linqAssignment\linqAssignment\obj\Debug\net6.0\refint\linqAssignment.dll
+E:\Degreed\linq\linqAssignment\linqAssignment\obj\Debug\net6.0\linqAssignment.pdb
+E:\Degreed\linq\linqAssignment\linqAssignment\obj\Debug\net6.0\linqAssignment.genruntimeconfig.cache
+E:\Degreed\linq\linqAssignment\linqAssignment\obj\Debug\net6.0\ref\linqAssignment.dll
